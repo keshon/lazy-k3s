@@ -1,0 +1,1 @@
+login:password # use htpasswd util to generate `auth` file
